@@ -1,7 +1,7 @@
 # Inventory UI (AGR) 
 
 
-FILES WILL BE UPLOAD SOON!
+# FILES WILL BE UPLOAD SOON!
 
 
 
