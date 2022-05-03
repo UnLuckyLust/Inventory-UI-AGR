@@ -16,9 +16,10 @@ How to use the system with your own project:
 
 5. Edit the blueprints:
   
-  a. Character BP: Add "Inventory_BPC" to your character.
+  a. Add "Inventory_BPC" to your character BP.
   
-  b. Create input for opening the inventory UI in project settings,on characterBP pull from "Inventory_BPC" and connect the command that says "show/hide inventory",     connect 'close key' pin to the input key.
+  b. Create input for opening the inventory UI in project settings, on character BP pull from "Inventory_BPC" and connect the command that says "show/hide inventory",
+  connect 'close key' pin to the input key.
   
   c. Create input for highlight items in project settings, on characterBP pull from "Inventory_BPC" and connect the command that says "Highlight Items (on)" for       
   pressed,   and "Highlight Items (off)" for Released. (You can add a delay before canceling
