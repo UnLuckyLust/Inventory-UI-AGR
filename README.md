@@ -12,7 +12,7 @@ How to use the system with your own project:
 
 3. Create an empty 'Player State' and register it in the game mode.
 
-4. Close your project with AGR installed. copy "InventoryUI" folder to your project "Plugins" folder.
+4. Close your project with AGR installed. copy "InventoryUI" folder to your project "Content" folder.
 
 5. Edit the blueprints:
   
