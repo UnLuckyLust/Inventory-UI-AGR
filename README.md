@@ -1,5 +1,5 @@
 # Inventory UI (AGR) 
-User Interface for 'AGR' inventory items
+User Interface for 'AGR PRO' inventory items
 
 This is the alpha step of the plugin to show the concept. All the code is still under development and bugs may occurred.
 You can add code or edit it at any time.
@@ -12,7 +12,7 @@ How to use the system with your own project:
 
 3. Create an empty 'Player State' and register it in the game mode.
 
-4. Close your project with AGR installed. copy "InventoryUI" folder to your project 'Plugins' folder.
+4. Close your project with AGR installed. copy "InventoryUI" folder to your project "Plugins" folder.
 
 5. Edit the blueprints:
   
