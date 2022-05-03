@@ -28,7 +28,7 @@ How to use the system with your own project:
   d. add begin play event and pull from "inventoryBPC" the command "create inventory ui Widget", add remove from parent after and connet to the command Output.
 
 That's all, now everything should work.
-You can add objects at any stage, the tutorial will go up later. the inventory currently supports up to 40 places and you can always add more, the demo project includes some objects that demonstrate that everything can be done,
+You can add objects at any stage, the tutorial will go up later. the inventory currently supports up to 40 places and you can always add more.
 enjoy.
 
 -UnLuckyLust Bluprint-
