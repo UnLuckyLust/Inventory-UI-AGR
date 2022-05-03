@@ -31,7 +31,7 @@ How to use the system with your own project:
   pressed,   and "Highlight Items (off)" for Released. (You can add a delay before canceling
   For a slightly more appealing effect).
 
-  d. add begin play event and pull from "inventoryUI_BPC" the command "create inventory ui Widget", add remove from parent after and connet to the command Output.
+  d. add begin play event and pull from "inventoryUI_BPC" the command "Create inventory ui Widget", add remove from parent after and connet to the command Output.
 
 6. Navigate to the 'InventoryUI/Base' folder. You will find actor named "Item_Demo", 
 This will be the actor that you can change and edit, to add more item just duplicate this actor and change the 'default class' information in the inventory ui category.
