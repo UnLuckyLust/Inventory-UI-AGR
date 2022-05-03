@@ -1,7 +1,7 @@
 # Inventory UI (AGR) 
 User Interface for 'AGR PRO' inventory items
 
-This is the alpha step of the plugin to show the concept. All the code is still under development and bugs may occurred.
+This is the alpha step of the asset to show the concept. All the code is still under development and bugs may occurred.
 You can add code or edit it at any time.
 
 How to use the system with your own project:
@@ -27,7 +27,7 @@ How to use the system with your own project:
 
   d. add begin play event and pull from "inventoryUI_BPC" the command "create inventory ui Widget", add remove from parent after and connet to the command Output.
 
-6. Navigate to the plug-in folder in the project, open the "InventoryUI Content" folder, and the "InventoryUI Component" folder. Create a child of "Mater_Item", and move the child to the "Content" folder in the project. 
+6. Navigate to the "InventoryUI Component" folder. Create a child of "Mater_Item". 
 This will be the object you can change copy and edit, just need to change the default information in the inventory ui category.
 
 That's all, now everything should work.
