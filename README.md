@@ -33,8 +33,8 @@ How to use the system with your own project:
 
   d. add begin play event and pull from "inventoryUI_BPC" the command "create inventory ui Widget", add remove from parent after and connet to the command Output.
 
-6. Navigate to the "InventoryUI Component" folder. Create a child of "Mater_Item". 
-This will be the object you can change copy and edit, just need to change the default information in the inventory ui category.
+6. Navigate to the 'InventoryUI Component/Base' folder. You will find actor named "Demo_Item", 
+This will be the actor that you can change and edit, to add more item just duplicate this actor and change the 'default class' information in the inventory ui category.
 
 That's all, now everything should work.
 the inventory currently supports up to 40 places and you can always add more.
