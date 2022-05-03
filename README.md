@@ -31,7 +31,7 @@ How to use the system with your own project:
 This will be the object you can change copy and edit, just need to change the default information in the inventory ui category.
 
 That's all, now everything should work.
-You can add objects at any stage, the tutorial will go up later. the inventory currently supports up to 40 places and you can always add more.
+the inventory currently supports up to 40 places and you can always add more.
 
 enjoy.
 
