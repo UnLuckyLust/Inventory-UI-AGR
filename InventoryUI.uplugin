@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "InventoryUI",
+	"Description": "Inventory UI for AGR PRO",
+	"Category": "AGR Inventory UI",
+	"CreatedBy": "UnLuckyLust",
+	"CreatedByURL": "https://www.youtube.com/channel/UCRVCpykE1gcwAJaVyvwl0uA/",
+	"DocsURL": "https://www.youtube.com/watch?v=c6DSVdL7xHQ&list=PLbxz4CwkfKLvnbX7bhWoPUfF61WWcOvES",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "AGRPRO",
+			"Enabled": true
+		}
+	]
+}
