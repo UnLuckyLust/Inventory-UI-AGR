@@ -15,11 +15,13 @@ How to use the system with your own project:
 4. Close your project with AGR installed. Migrate or copy the "InventoryUi" folder to your project 'content' folder.
 
 5. Edit the blueprints:
+  
   a. Character BP: Add "Inventory_BPC" to your character.
   
-  b. Create input for opening the inventory UI in project settings,on characterBP pull from "Inventory_BPC" and connect the command that says "show/hide inventory",       connect 'close key' pin to the input key.
+  b. Create input for opening the inventory UI in project settings,on characterBP pull from "Inventory_BPC" and connect the command that says "show/hide inventory",     connect 'close key' pin to the input key.
   
-  c. Create input for highlight items in project settings, on characterBP pull from "Inventory_BPC" and connect the command that says "Highlight Items (on)" for pressed,   and "Highlight Items (off)" for Released. (You can add a delay before canceling
+  c. Create input for highlight items in project settings, on characterBP pull from "Inventory_BPC" and connect the command that says "Highlight Items (on)" for       
+  pressed,   and "Highlight Items (off)" for Released. (You can add a delay before canceling
   For a slightly more appealing effect).
 
   d. add begin play event and pull from "inventoryBPC" the command "create inventory ui Widget", add remove from parent after and connet to the command Output.
