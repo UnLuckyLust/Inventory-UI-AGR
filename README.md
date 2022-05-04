@@ -1,11 +1,5 @@
 # Inventory UI (AGR) 
-
-
-# FILES WILL BE UPLOAD SOON!
-
-
-
-User Interface for 'AGR PRO' inventory items
+* User Interface for 'AGR PRO' inventory items
 
 This is the alpha step of the asset to show the concept. All the code is still under development and bugs may occurred.
 You can add code or edit it at any time.
