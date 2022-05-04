@@ -4,6 +4,9 @@ User Interface for 'AGR PRO' inventory items
 This is the alpha step of the asset to show the concept. All the code is still under development and bugs may occurred.
 You can add code or edit it at any time.
 
+Tutorial and Demo:
+https://www.youtube.com/watch?v=7rLUUwoELsc
+
 How to use the system with your own project:
 
 1. First of all install the AGR PRO plugin from EPIC Store it does not cost money and it is a useful plugin for many things beyond inventory.
