@@ -1,5 +1,5 @@
 # Inventory UI (AGR) 
-* User Interface for 'AGR PRO' inventory items
+User Interface for 'AGR PRO' inventory items
 
 This is the alpha step of the asset to show the concept. All the code is still under development and bugs may occurred.
 You can add code or edit it at any time.
@@ -16,16 +16,16 @@ How to use the system with your own project:
 
 5. Edit the blueprints:
   
-  a. Add "InventoryUI_BPC" to your character BP.
+ * a. Add "InventoryUI_BPC" to your character BP.
   
-  b. Create input for opening the inventory UI in project settings, on character BP pull from "InventoryUI_BPC" and connect the command that says "show/hide inventory",
+ * b. Create input for opening the inventory UI in project settings, on character BP pull from "InventoryUI_BPC" and connect the command that says "show/hide inventory",
   connect 'close key' pin to the input key.
   
-  c. Create input for highlight items in project settings, on characterBP pull from "InventoryUI_BPC" and connect the command that says "Highlight Items (on)" for       
+ * c. Create input for highlight items in project settings, on characterBP pull from "InventoryUI_BPC" and connect the command that says "Highlight Items (on)" for       
   pressed,   and "Highlight Items (off)" for Released. (You can add a delay before canceling
   For a slightly more appealing effect).
 
-  d. add begin play event and pull from "inventoryUI_BPC" the command "Create inventory ui Widget", add remove from parent after and connet to the command Output.
+ * d. add begin play event and pull from "inventoryUI_BPC" the command "Create inventory ui Widget", add remove from parent after and connet to the command Output.
 
 6. Navigate to the 'InventoryUI/Base' folder. You will find actor named "Item_Demo", 
 This will be the actor that you can change and edit, to add more item just duplicate this actor and change the 'default class' information in the inventory ui category.
